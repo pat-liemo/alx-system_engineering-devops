@@ -1,1 +1,2 @@
-touch hello
+#!/bin/bash
+touch empty
