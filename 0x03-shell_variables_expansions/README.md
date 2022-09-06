@@ -1,0 +1,1 @@
+script creates an alias
